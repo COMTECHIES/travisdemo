@@ -1,6 +1,6 @@
 name             'travisdemo'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'comtechies'
+maintainer_email 'bibin.w@hcl.com'
 license          'All rights reserved'
 description      'Installs/Configures travisdemo'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
