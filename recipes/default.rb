@@ -9,4 +9,5 @@
 
 directory #node['asdfjygasd']['asdasdasd'] do
   action :create
+  askdhfkjasdf askdj f isagd fj
 end
