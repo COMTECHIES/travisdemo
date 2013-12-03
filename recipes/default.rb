@@ -6,3 +6,7 @@
 #
 # All rights reserved - Do Not Redistribute
 #
+
+directory "/etc/demo" do
+  action :create
+end
