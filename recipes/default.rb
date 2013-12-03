@@ -7,6 +7,6 @@
 # All rights reserved - Do Not Redistribute
 #
 
-directory "/etc/demo" do
+directory #node['asdfjygasd']['asdasdasd'] do
   action :create
 end
